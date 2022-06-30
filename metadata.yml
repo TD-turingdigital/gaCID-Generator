@@ -1,0 +1,5 @@
+homepage: "https://github.com/TD-turingdigital/Template-Module-Popup"
+documentation: "https://github.com/TD-turingdigital/Template-Module-Popup/blob/main/README.md"
+versions:
+  - sha: 0160676ec6a291c6c0d7761271a6017926809fe3
+    changeNotes: Initial release.
