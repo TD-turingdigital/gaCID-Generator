@@ -1,5 +1,5 @@
 homepage: "https://github.com/TD-turingdigital/gaCID-Generator"
 documentation: "https://github.com/TD-turingdigital/gaCID-Generator/blob/main/README.md"
 versions:
-  - sha: e6ca342973634e0bb460cc92acf656e029225dee
+  - sha: 442366a568a24a41d0a4fd3e052c66f3c3d05f63
     changeNotes: Initial release.
