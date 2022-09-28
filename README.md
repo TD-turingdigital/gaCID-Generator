@@ -1,1 +1,1 @@
-ga client ID reGenerate and cookie saving.
+Generate the client ID and save it in cookies.
